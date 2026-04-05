@@ -4,7 +4,7 @@
 
   **An intelligent, real-time expense management and splitting platform powered by Generative AI.**
 
-  [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-2ea44f?style=for-the-badge&logo=vercel)]([(https://coincious-smart-expense.vercel.app/)])
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-2ea44f?style=for-the-badge&logo=vercel)](https://coincious-smart-expense.vercel.app/)
   
   <p align="center">
     <a href="https://react.dev/"><img src="https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /></a>
