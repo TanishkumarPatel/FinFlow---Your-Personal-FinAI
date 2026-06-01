@@ -165,9 +165,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 - Open a Pull Request
 
 
-<div align="center">
-<b>Built by <a href="https://www.google.com/search?q=https://github.com/Tirthgandhi05">Tirth Gandhi</a></b>
-
-
 <i>If you like this project, please leave a ⭐!</i>
 </div>
