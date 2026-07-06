@@ -164,6 +164,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 - Push to the Branch (git push origin feature/AmazingFeature)
 - Open a Pull Request
 
+👨‍💻 Author
 
-<i>If you like this project, please leave a ⭐!</i>
+**Tanishkumar Patel**
 </div>
